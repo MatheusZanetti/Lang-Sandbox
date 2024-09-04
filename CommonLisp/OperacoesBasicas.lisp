@@ -66,7 +66,7 @@
         (/ 1/3 2)))
 
 (defun Exemplo5()
-    (format T "Um exemplo de formula matemática 5-3+2*5+25/5 ~%")
+    (format T "Um exemplo de expressão númerica 5-3+2*5+25/5 ~%")
     (format T "O resutaldo é: ~a~%" 
         (+ (- 5 3) (* 2 5 ) (/ 25 5 ))))
 
